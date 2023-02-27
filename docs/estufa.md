@@ -19,3 +19,11 @@
 > Exemplo de [App Inventor + arduino + bluetooth](https://www.filipeflop.com/blog/como-criar-um-aplicativo-para-o-seu-projeto-com-arduino/)
 
 > Exemplo de  [Arduino + hc-06](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-modulo-bluetooth-hc-05-hc-06)
+
+## Novos Sensores:
+
+> Sensor UV
+> [Exemplo de uso](https://electropeak.com/learn/interfacing-uvm30a-uv-light-sensor-module-with-arduino/)
+
+> Sensor Umidade e Temperatura
+> [Exemplo de uso](https://lobodarobotica.com/blog/ler-temperatura-e-umidade-com-arduino-e-o-dht11/)
