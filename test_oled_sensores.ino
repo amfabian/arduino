@@ -43,14 +43,7 @@ void setup()
   h = dht.readHumidity();
   t = dht.readTemperature();
   // testa se retorno é valido, caso contrário algo está errado.
- /* if (isnan(t) || isnan(h)) 
-  {
-    Serial.println("Failed to read from DHT");
-  } 
-  else
-  {
-   
-  */
+ 
     Serial.print("Umidade: ");
     Serial.print(h);
     Serial.print("%t ");
@@ -77,7 +70,7 @@ void setup()
     delay(10000);
      
     display.clearDisplay(); //LIMPA AS INFORMAÇÕES DO DISPLAY
- // }
+ 
 
   
 }
